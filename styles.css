@@ -17,87 +17,49 @@
     margin: auto;
   }
 
-    /* Navbar Left */
-    .nav-main ul {
-        display: flex;
-      }
-      
-      .nav-main ul li {
-        padding: 10px;
-      }
-      
-    
-      .nav-main ul li a:hover {
-        border-bottom: 2px solid #fff;
-      }
-    
-    .centro {
-        width: 100%;
-        height: 550px;
-        background: url("https://sm.ign.com/t/ign_es/screenshot/default/blob_n6vk.1280.jpg") no-repeat center center/cover;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        justify-content: flex-end;
-    }
-    
-    .superman {
-        width: 100%;
-        height: 550px;
-        background: url("https://dam.smashmexico.com.mx/wp-content/uploads/2018/08/29101211/supermanbio_portada.jpg") no-repeat center center/cover;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        justify-content: flex-end;
-    }
-    
-    .batman {
-        width: 100%;
-        height: 550px;
-        background: url("https://i.blogs.es/edeb0a/1366_2000-5-/1366_2000.jpeg") no-repeat center center/cover;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        justify-content: flex-end;
-    }
-    
-    .wonderwoman {
-        width: 100%;
-        height: 550px;
-        background: url("https://blogdesuperheroes.es/wp-content/plugins/BdSGallery/BdSGaleria/3827.jpg") no-repeat center center/cover;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        justify-content: flex-end;
-    }
-    
-    .linternaverde {
-        width: 100%;
-        height: 550px;
-        background: url("https://www.elindependientedehidalgo.com.mx/wp-content/uploads/2020/05/PAG-24-LINTERNA-AGENCIA.jpg") no-repeat center center/cover;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        justify-content: flex-end;
-    }
-    
-    .cyborg {
-        width: 100%;
-        height: 550px;
-        background: url("https://dam.smashmexico.com.mx/wp-content/uploads/2017/11/los-datos-mas-relevantes-de-cyborg-770x513.jpg") no-repeat center center/cover;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        justify-content: flex-end;
-    }
 
   h1 {
     text-align: center;
     font-family: 'Oswald', sans-serif;
+}
+
+.guason {
+    width: 100%;
+    height: 550px;
+    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Flatam.ign.com%2Fthe-joker%2F12751%2Ffeature%2Funa-historia-visual-de-el-joker-en-27-imagenes&psig=AOvVaw2lE1C32Bfw1y2EuqFXTJ6r&ust=1603566686880000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDjgs61y-wCFQAAAAAdAAAAABAD") no-repeat center center/cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+}
+.bane {
+    width: 100%;
+    height: 550px;
+    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fcomics-es%2Fpage%2Fitem%2Fbane%2Fw74C_pIJ7dnoaZDRzJN66wxBWlDlegq&psig=AOvVaw0iK9dZKCYWWbRXCdKp_3Xo&ust=1603566785337000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjerPm1y-wCFQAAAAAdAAAAABAD") no-repeat center center/cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+}
+.harley {
+    width: 100%;
+    height: 550px;
+    background: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.ign.com%2Fharley-quinn-1%2F152892%2Fnews%2Fla-serie-animada-de-harley-quinn-estrena-su-primer-trailer&psig=AOvVaw1OVtYxf_UPV4k0eOa_-EAb&ust=1603566883239000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCpw6e2y-wCFQAAAAAdAAAAABAD") no-repeat center center/cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
+}
+.pingüino {
+    width: 100%;
+    height: 550px;
+    background: url("https://pm1.narvii.com/6357/16f146c7ca7d10ef0e59b6100a1ce59820f9c0c8_00.jpg") no-repeat center center/cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: flex-end;
 }
